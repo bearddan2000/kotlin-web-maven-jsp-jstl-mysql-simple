@@ -1,4 +1,4 @@
-# kotlin-web-maven-springboot-jsp-hello-world
+# kotlin-web-maven-jsp-jstl-mysql-simple
 
 ## Description
 A POC for spring framework.
@@ -7,6 +7,7 @@ A POC for spring framework.
 - spring boot
 
 ## Docker stack
+- mariadb
 - maven:3-openjdk-17
 
 ## To run
